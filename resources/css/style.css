@@ -25,9 +25,9 @@
     margin-right: 100px;
   }
   
-  .bg-carousel-ba1 { background-image: url(../images/ba1.jpg); }
-  .bg-carousel-ba2 { background-image: url(../images/ba2.jpg); }
-  .bg-carousel-ba3 { background-image: url(../images/ba3.jpg); }
+  .bg-carousel-ba1 { background-image: url(./images/ba1.jpg); }
+  .bg-carousel-ba2 { background-image: url(./images/ba2.jpg); }
+  .bg-carousel-ba3 { background-image: url(./images/ba3.jpg); }
   
   .carousel-item {
     background-size: cover;
