@@ -55,6 +55,7 @@
     background: #1d3c4e;
     color: #ffffff;
     padding: 1.5rem;
+    margin-top: 7px;
    }
   
   
@@ -69,3 +70,92 @@
       #mainFooter .nav-link span { display: block; }
     }
   
+    /*
+    
+    
+  
+
+  
+  /* Página Tickets */
+
+.link-verde-ticket{
+  color: #9de853 !important; 
+}
+
+.row-group{
+  align-items: center;
+  padding: 0 10%;
+  justify-content: space-between !important;
+}
+
+.grupo-tickets{
+  margin-top: 1rem;
+
+}
+
+.card-tickets {
+  text-align: center;
+  padding: 3rem;
+}
+
+.card-tickets:hover{
+  transform: scale(0.9);
+  transition: 0.8s linear;
+  background-color: rgb(229, 237, 21);
+}
+
+.card-tickets-estudiante{
+  border: solid 1px rgb(41, 128, 234) !important;
+}
+
+.card-tickets-trainee{
+  border: solid 1px rgb(17, 150, 216) !important;
+}
+
+.card-tickets-junior{
+  border: solid 1px rgb(225, 192, 28) !important;
+}
+
+.formulario-tickets{
+  padding-top: 5px;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.total-pagar{
+  background-color: #cee4ee !important;
+}
+
+.container-btn-tickets{
+  align-items: center !important;
+}
+
+.btn-ticket{
+  padding-top: 5px;
+    width: 400px;
+  border: none !important;
+  background-color: #7fc33b !important;
+}
+
+
+.button-container {
+  text-align: center;
+}
+
+.button {
+  width: 376px; /* Adjust the width as needed */
+  height: 30px; /* Adjust the height as needed */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+  background-color: #53db34; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none;
+  border-radius: 9px; /* Rounded corners */
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #29b94d; /* Button background color on hover */
+}
+
